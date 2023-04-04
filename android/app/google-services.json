@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645276565458",
+    "project_id": "bloodzone-c32ea",
+    "storage_bucket": "bloodzone-c32ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645276565458:android:752323da4e5f53daf6520b",
+        "android_client_info": {
+          "package_name": "com.example.bloodzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645276565458-d8t4vb420lta22qbf3gni6bhaamkiegh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaCuEdjAwQnzQlV4YMnHzfYpk1RM0mi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645276565458-d8t4vb420lta22qbf3gni6bhaamkiegh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
